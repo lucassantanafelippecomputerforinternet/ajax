@@ -1,0 +1,22 @@
+<livros>
+    <livro>
+        <titulo>História do cristianismo: Uma obra completa e atual 
+        sobre a trajetória da igreja cristã desde as origens até o século XXI</titulo>
+        <Editora>Thomas Nelson</Editora>
+        <autor>Dr. Bruce L. Shelley</autor>
+        <npages>560</npages>
+    </livro>
+    <livro>
+        <titulo>História da reforma: Um dos acontecimentos mais importantes da história do cristianismo
+         em uma narrativa clara e envolvente </titulo>
+        <Editora>Thomas Nelson</Editora>
+        <autor>Carter Lindberg</autor>
+        <npages>528</npages>
+    </livro>
+    <livro>
+        <titulo>Teologia da reforma</titulo>
+        <Editora>Thomas Nelson</Editora>
+        <autor>Matthew Barrett</autor>
+        <npages>704</npages>
+    </livro>    
+</livros>

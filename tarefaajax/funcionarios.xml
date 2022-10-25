@@ -1,0 +1,17 @@
+<funcionarios>
+    <funcionario>
+        <nome>Lucas</nome>
+        <cargo>Programador</cargo>
+        <salario>17000 R$</salario>
+    </funcionario>
+    <funcionario>
+        <nome>Elias</nome>
+        <cargo>Advogado</cargo>
+        <salario>18000 R$</salario>
+    </funcionario>
+    <funcionario>
+        <nome>João</nome>
+        <cargo>Empresário</cargo>
+        <salario>1700000 R$</salario>
+    </funcionario>
+</funcionarios>
